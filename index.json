@@ -17,8 +17,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/wangguo113/dsh-usage-cost",
-            "commit": "7e0581ca286e3f71535ac8dad4940a9935eb7980",
-            "path": "."
+            "commit": "7e0581ca286e3f71535ac8dad4940a9935eb7980"
           },
           "engines": { "dsh": ">=0.2.0 <0.3.0" }
         }
@@ -26,3 +25,4 @@
     }
   ]
 }
+
