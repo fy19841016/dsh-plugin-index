@@ -1,0 +1,28 @@
+{
+  "format": 1,
+  "title": { "en": "fy19841016 plugins", "zh": "本地插件索引" },
+  "description": { "en": "Curated DSH plugin index", "zh": "自建 DSH 插件索引" },
+  "plugins": [
+    {
+      "name": "dsh-usage-cost",
+      "title": { "en": "Usage & Cost", "zh": "用量与费用" },
+      "description": { "en": "Token usage, estimated cost, peak/off-peak window and account balance beside the sidebar footer.", "zh": "侧边栏底部的 token 用量、费用估算、峰谷时段与账号余额。" },
+      "author": "Wang Guo",
+      "homepage": "https://github.com/wangguo113/dsh-usage-cost#readme",
+      "repository": { "url": "https://github.com/wangguo113/dsh-usage-cost" },
+      "versions": [
+        {
+          "version": "1.5.0",
+          "publishTimestamp": 1793396163,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/wangguo113/dsh-usage-cost",
+            "commit": "7e0581ca286e3f71535ac8dad4940a9935eb7980",
+            "path": "."
+          },
+          "engines": { "dsh": ">=0.2.0 <0.3.0" }
+        }
+      ]
+    }
+  ]
+}
